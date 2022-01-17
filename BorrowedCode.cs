@@ -6,7 +6,7 @@ namespace Bme121
 {
     static partial class Program
     {
-        // -----------------------------------------------------------------------------------------
+        // ----------------------------------------------------------------------------------------
         // Return the single-character string "a".."z" corresponding to its index 0..25. 
         // Return " " for an invalid index.
         
@@ -16,7 +16,7 @@ namespace Bme121
             else return "abcdefghijklmnopqrstuvwxyz"[ number ].ToString( );
         }
         
-        // -----------------------------------------------------------------------------------------
+        // ----------------------------------------------------------------------------------------
         // Return the index 0..25 corresponding to its single-character string "a".."z". 
         // Return -1 for an invalid string.
         
@@ -26,7 +26,7 @@ namespace Bme121
             else return "abcdefghijklmnopqrstuvwxyz".IndexOf( letter[ 0 ] );
         }
         
-        // -----------------------------------------------------------------------------------------
+        // ----------------------------------------------------------------------------------------
         // Create a new Othello game board, initialized with four pieces in their starting
         // positions. The counts of rows and columns must be no less than 4, no greater than 26,
         // and not an odd number. If not, the new game board is created as an empty array.
@@ -58,7 +58,7 @@ namespace Bme121
             return board;
         }
 
-        // -----------------------------------------------------------------------------------------
+        // ----------------------------------------------------------------------------------------
         // Display the Othello game board on the Console.
         // All information about the game is held in the two-dimensional string array.
         
