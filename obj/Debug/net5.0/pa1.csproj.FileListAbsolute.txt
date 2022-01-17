@@ -1,0 +1,16 @@
+C:\Users\aaren\bme121_programs\pa\pa1\bin\Debug\net5.0\pa1.exe
+C:\Users\aaren\bme121_programs\pa\pa1\bin\Debug\net5.0\pa1.deps.json
+C:\Users\aaren\bme121_programs\pa\pa1\bin\Debug\net5.0\pa1.runtimeconfig.json
+C:\Users\aaren\bme121_programs\pa\pa1\bin\Debug\net5.0\pa1.runtimeconfig.dev.json
+C:\Users\aaren\bme121_programs\pa\pa1\bin\Debug\net5.0\pa1.dll
+C:\Users\aaren\bme121_programs\pa\pa1\bin\Debug\net5.0\ref\pa1.dll
+C:\Users\aaren\bme121_programs\pa\pa1\bin\Debug\net5.0\pa1.pdb
+C:\Users\aaren\bme121_programs\pa\pa1\obj\Debug\net5.0\pa1.csproj.AssemblyReference.cache
+C:\Users\aaren\bme121_programs\pa\pa1\obj\Debug\net5.0\pa1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aaren\bme121_programs\pa\pa1\obj\Debug\net5.0\pa1.AssemblyInfoInputs.cache
+C:\Users\aaren\bme121_programs\pa\pa1\obj\Debug\net5.0\pa1.AssemblyInfo.cs
+C:\Users\aaren\bme121_programs\pa\pa1\obj\Debug\net5.0\pa1.csproj.CoreCompileInputs.cache
+C:\Users\aaren\bme121_programs\pa\pa1\obj\Debug\net5.0\pa1.dll
+C:\Users\aaren\bme121_programs\pa\pa1\obj\Debug\net5.0\ref\pa1.dll
+C:\Users\aaren\bme121_programs\pa\pa1\obj\Debug\net5.0\pa1.pdb
+C:\Users\aaren\bme121_programs\pa\pa1\obj\Debug\net5.0\pa1.genruntimeconfig.cache
