@@ -148,3 +148,5 @@ namespace Bme121
         }
     }
 }
+
+Credit: George Freeman, BME 121 Professor @ The University of Waterloo (uwaterloo.ca/electrical-computer-engineering/profile/freeman)
