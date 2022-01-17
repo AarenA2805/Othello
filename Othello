@@ -406,8 +406,8 @@ namespace Bme121
             /*
             if(54 <= scoreDifference && scoreDifference <= 64) Write("A PERFECT game!");
             else if(40 <= scoreDifference && scoreDifference <= 52) Write("A WALKAWAY game!");
-            else if(26 <= scoreDifference && scoreDifference <= 38) Write("A HOT game!");
-            else if(12 <= scoreDifference && scoreDifference <= 24) Write("A PERFECT game!");
+            else if(26 <= scoreDifference && scoreDifference <= 38) Write("A FIGHT game!");
+            else if(12 <= scoreDifference && scoreDifference <= 24) Write("A HOT game!");
             else Write("CLOSE game!");
             */
         }
